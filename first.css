@@ -23,13 +23,12 @@ body{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
-   
     margin-top:40px;
 
 }
 .header p{
     color:  #4E47ff;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin-left:100px;
     
 }
@@ -191,7 +190,7 @@ body{
     flex-direction: column;
    padding:20px;
    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; 
-     border-radius: 15px;
+   border-radius: 15px;
 
 
 }
